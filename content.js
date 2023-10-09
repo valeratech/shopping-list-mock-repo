@@ -1,4 +1,4 @@
 console.log("ugaxi")
 console.log("bowxh")
 console.log("ptbbw")
-console.log("sjekr")
+console.log("seeux")
